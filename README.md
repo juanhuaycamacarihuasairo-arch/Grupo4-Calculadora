@@ -3,8 +3,8 @@
 Proyecto de la Semana 9 (ET403 · Técnicas de Programación I), Universidad Nacional Intercultural "Fabiola Salazar Leguía" de Bagua.
 
 ## Enlaces
-- Repositorio: https://github.com/juanhuaycamacarihuasairoarch/calculadora-grupo4
-- Sitio publicado (GitHub Pages): https://juanhuaycamacarihuasairoarch.github.io/Grupo4-Calculadora/  <!-- VERIFICAR: debe coincidir con el nombre del repositorio -->
+- Repositorio: https://github.com/juanhuaycamacarihuasairo-arch/Grupo4-Calculadora
+- GitHub Pages: https://juanhuaycamacarihuasairo-arch.github.io/Grupo4-Calculadora/
 
 ## Uso
 1. Calculadora: escriba dos datos, elija la operación (sumar, restar, multiplicar o dividir) y pulse **Calcular**.
