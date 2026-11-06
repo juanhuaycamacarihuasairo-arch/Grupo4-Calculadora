@@ -1,35 +1,37 @@
-# Calculadora y conversor · Grupo 4 · ET403 (Semana 9)
+# Calculadora y conversor de unidades · Grupo 4
 
-Calculadora de suma, resta, multiplicación y división (versión de la semana 7), mejorada con un **conversor de unidades**: metros ↔ centímetros y kilogramos ↔ gramos.
+Proyecto de la Semana 9 (ET403 · Técnicas de Programación I), Universidad Nacional Intercultural "Fabiola Salazar Leguía" de Bagua.
 
 ## Enlaces
-- Repositorio: https://github.com/juanhuaycamacarihuasairo-arch/Grupo4-Calculadora
-- GitHub Pages: https://juanhuaycamacarihuasairo-arch.github.io/Grupo4-Calculadora/
-
-## Archivos
-| Archivo | Función |
-|---|---|
-| `index.html` | Estructura: calculadora y sección del conversor |
-| `styles.css` | Estilos base + personalización (paleta azul RGB(30, 64, 175), título de 2rem) |
-| `app.js` | Lógica: calculadora original y conversor (lista `conversiones` + función `convertir`) |
-| `index-original.html` | Copia de la calculadora original de la semana 7 |
+- Repositorio: https://github.com/juanhuaycamacarihuasairoarch/calculadora-grupo4
+- Sitio publicado (GitHub Pages): https://juanhuaycamacarihuasairoarch.github.io/Grupo4-Calculadora/  <!-- VERIFICAR: debe coincidir con el nombre del repositorio -->
 
 ## Uso
-1. **Calculadora:** escriba dos datos, elija la operación y pulse *Calcular*.
-2. **Conversor:** escriba un valor (0 o mayor), elija la conversión y pulse *Convertir*.
-3. Se rechazan: campo vacío, texto o número no finito y valores negativos (en el conversor). La calculadora rechaza vacío, texto y división entre cero.
+1. Calculadora: escriba dos datos, elija la operación (sumar, restar, multiplicar o dividir) y pulse **Calcular**.
+2. Conversor: escriba un valor, elija la conversión (m ↔ cm, kg ↔ g) y pulse **Convertir**.
+3. Decimales con punto (por ejemplo 1.5).
+4. El conversor rechaza: campo vacío, valores no numéricos y valores negativos.
+
+## Archivos
+| Archivo | Contenido |
+|---|---|
+| `index.html` | Estructura: sección Calculadora y sección Conversor |
+| `styles.css` | Estilos y personalización |
+| `app.js` | Lógica: calculadora y conversor (lista `conversiones` + función `convertir()`) |
+| `index-original.html` | Copia de la calculadora original de la semana 7 |
 
 ## Personalización
-- Etiqueta HTML cambiada: `<h1>` → «Calculadora y conversor · Grupo 4», tamaño `2rem` (antes `1.5rem`).
-- Paleta: azul RGB(30, 64, 175); texto blanco sobre ese azul con contraste ≈ 8,7 : 1.
+- Texto de etiqueta cambiado: `<h1>Calculadora · Grupo 4</h1>` → `<h1>Calculadora y conversor · Grupo 4</h1>`
+- Tamaño del `h1`: de 1.5rem a 2rem.
+- Paleta: azul `rgb(30, 64, 175)`; contraste con texto blanco aprox. 8,7:1.
 
 ## Aportes del grupo
-| Integrante | Aporte realizado |
+| Integrante | Aporte |
 |---|---|
-| Juan Carlos Rodas Guerrero (líder) | (completar con lo que realmente hizo) |
-| Antonella Alexandra Chicoma Cruzado | (completar) |
-| Juan Roberto Huaicama Carihuasairo | (completar) |
-| Mireya Clementina Reategui Pando | (completar) |
-| Mary Cielo Requejo Vilas | (completar) |
-| Datsa Paulo Yampis Tarimo | (completar) |
-| Yuni Lezzy Bakuants Uwak | (completar) |
+| Rodas Guerrero, Juan Carlos (líder) | Organización del proyecto en archivos |
+| Chicoma Cruzado, Antonella Alexandra | Lista de objetos y función `convertir()` |
+| Huaicama Carihuasairo, Juan Roberto | Validaciones del conversor |
+| Reategui Pando, Mireya Clementina | Fórmulas y factores de conversión |
+| Requejo Vilas, Mary Cielo | Selector, eventos e identificadores |
+| Yampis Tarimo, Datsa Paulo | Pruebas |
+| Bakuants Uwak, Yuni Lezzy | Personalización y publicación |
