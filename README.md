@@ -3,7 +3,7 @@
 Calculadora de suma, resta, multiplicación y división (versión de la semana 7), mejorada con un **conversor de unidades**: metros ↔ centímetros y kilogramos ↔ gramos.
 
 ## Enlaces
-- Repositorio: https://github.com/juanhuaycamacarihuasairoarch/calculadora-grupo4
+- Repositorio: https://github.com/juanhuaycamacarihuasairo-arch/Grupo4-Calculadora
 - Sitio publicado (GitHub Pages): `PEGAR AQUÍ la URL de Pages cuando esté publicada y verificada`
 
 ## Archivos
