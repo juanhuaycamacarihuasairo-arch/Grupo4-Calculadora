@@ -4,7 +4,7 @@ Calculadora de suma, resta, multiplicación y división (versión de la semana 7
 
 ## Enlaces
 - Repositorio: https://github.com/juanhuaycamacarihuasairo-arch/Grupo4-Calculadora
-- Sitio publicado (GitHub Pages): https://juanhuaycamacarihuasairo-arch.github.io/Grupo4-Calculadora/
+- GitHub Pages: https://juanhuaycamacarihuasairo-arch.github.io/Grupo4-Calculadora/
 
 ## Archivos
 | Archivo | Función |
